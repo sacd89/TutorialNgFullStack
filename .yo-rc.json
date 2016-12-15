@@ -1,0 +1,12 @@
+{
+  "generator-ng-fullstack": {
+    "username": "some-username-here",
+    "appName": "ejemploStackMEAN",
+    "stack": "fullstack",
+    "server": "node",
+    "client": "ng2",
+    "transpilerServer": "babel",
+    "secure": true,
+    "differentStaticServer": false
+  }
+}
